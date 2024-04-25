@@ -1,36 +1,29 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts:<br>- 🧩 I love trying innovations.<br>- 🎤 I sing in my free time.<br></h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts:<br>- 🧩 I love trying innovations.<br>- 🎤 I sing in my free time.</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="58" />
+  <img width="56" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivasubramanianss40&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasubramanianss40&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=noctis_minimus&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=sivasubramanianss40&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasubramanianss40&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/sivasubramanianss40/count.svg?"  />
 </div>
 
 ###
