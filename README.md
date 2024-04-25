@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts<br>- 🧩 I love trying innovations.<br><br>- 🎤 I sing in my free time.</h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts<br>- 🧩 I love trying innovations.<br>- 🎤 I sing in my free time.<br></h2>
 
 ###
 
