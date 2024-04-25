@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts<br>- 🧩 I love trying innovations.<br>- 🎤 I sing in my free time.</h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>I'm a software developer and open-source enthusiast with a passion for building AI Innovation and contributing to the developer community.<br><br><br>- 🔭 I’m currently working on [Project X]<br><br>Fun Facts<br>- 🧩 I love trying innovations.<br><br>- 🎤 I sing in my free time.</h2>
 
 ###
 
@@ -30,6 +30,12 @@
 ###
 
 <div align="left">
+  <img src="https://profile-counter.glitch.me/sivasubramanianss40/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/sivasubramanianss40/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
   </a>
@@ -43,15 +49,5 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="youtube logo"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/sivasubramanianss40/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sivasubramanianss40/sivasubramanianss40/output/snake.svg" alt="Snake animation" />
 
 ###
