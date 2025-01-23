@@ -11,7 +11,7 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
 - **Predicting Alzheimer's Disease from MRI Scans Using Deep Learning**
   - Achieved **92% accuracy** with **ResNet50** architecture.
   - Developed a **Flask-based web app** for real-time MRI image classification.
-  - Integrated advanced visualization techniques like **heatmaps** for better interpretability.
+  - Integrated advanced visualization techniques like **Confident Score** for better interpretability.
 
   
 - **AI-Powered Visual Perception System**
@@ -25,6 +25,8 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
 - **Silambam Coaching Centre**
   - Establishing a structured and advanced martial arts coaching system.
   - Integrating AI-driven training analysis for better performance tracking.
+
+- Etc..,
 
 ---
 
