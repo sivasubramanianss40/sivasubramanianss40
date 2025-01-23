@@ -11,8 +11,12 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
 - **Predicting Alzheimer's Disease from MRI Scans Using Deep Learning**
   - Achieved **92% accuracy** with **ResNet50** architecture.
   - Developed a **Flask-based web app** for real-time MRI image classification.
-  - Integrated advanced visualization techniques like **Confident Score** for better interpretability.
-
+  - Integrated advanced visualization techniques like **confident score** for better interpretability.
+  
+- **Medicinal Leaf Classification Using Deep Learning**
+  - Utilizing **EfficientNet** for high-accuracy classification.
+  - Analyzing the medicinal benefits of **15 different leaf types**.
+  - Implementing advanced augmentation techniques for model robustness.
   
 - **AI-Powered Visual Perception System**
   - Building a system that **learns by observation** using real-time video capture.
@@ -27,7 +31,6 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
   - Integrating AI-driven training analysis for better performance tracking.
 
 - Etc..,
-
 ---
 
 ### 🎯 Skills & Technologies
@@ -41,6 +44,8 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
 
 ---
