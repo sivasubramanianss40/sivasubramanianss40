@@ -13,11 +13,6 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
   - Developed a **Flask-based web app** for real-time MRI image classification.
   - Integrated advanced visualization techniques like **confident score** for better interpretability.
   
-- **Medicinal Leaf Classification Using Deep Learning**
-  - Utilizing **EfficientNet** for high-accuracy classification.
-  - Analyzing the medicinal benefits of **15 different leaf types**.
-  - Implementing advanced augmentation techniques for model robustness.
-  
 - **AI-Powered Visual Perception System**
   - Building a system that **learns by observation** using real-time video capture.
   - Enables automatic face-name recognition and conversational learning.
