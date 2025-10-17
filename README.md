@@ -1,4 +1,4 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>Founder & CEO of SS40 NETWORK Pvt Ltd | AIML Trainer @ Xebia | AI Developer | Open-Source Enthusiast</h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>Founder & CEO of SS40 NETWORK | AIML Trainer @ Xebia | AI Developer | Open-Source Enthusiast</h2>
 
 ---
 
