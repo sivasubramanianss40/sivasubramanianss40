@@ -1,9 +1,25 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>Founder & CEO of SS40 Network | AI Developer | Open-Source Enthusiast</h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>Founder & CEO of SS40 NETWORK Pvt Ltd | AIML Trainer @ Xebia | AI Developer | Open-Source Enthusiast</h2>
 
 ---
 
 ### 🚀 About Me
-I'm a passionate AI developer specializing in deep learning, natural language processing, and computer vision. I focus on building innovative AI-driven solutions that make a real-world impact. As an open-source enthusiast, I actively contribute to the developer community, sharing insights and collaborating on groundbreaking projects.
+I'm a passionate AI developer specializing in artificial intelligence, machine learning, deep learning, and generative AI. As the Founder & CEO of **SS40 NETWORK Pvt Ltd** (established September 2023), I lead a startup delivering innovative AI-driven solutions, including captivating webpages, unique logos, and cutting-edge software solutions. Currently serving as an **AIML Trainer at Xebia** (August 2025 - Present), I combine hands-on AI expertise with education to empower the next generation of AI professionals.
+
+With expertise in **Natural Language Processing, Image Processing, Sentiment Analysis, and Generative AI**, I focus on building innovative solutions that make real-world impact. As an open-source enthusiast, I actively contribute to the developer community, sharing insights and collaborating on groundbreaking projects. I'm also recognized for my presentation and communication skills, often invited as a keynote speaker.
+
+---
+
+### 💼 Professional Experience
+- **AIML Trainer** @ Xebia (August 2025 - Present)
+- **Founder & Chief Executive Officer** @ SS40 NETWORK Pvt Ltd (September 2023 - Present)
+- **Artificial Intelligence Engineer** @ IPCS (January 2025 - February 2025)
+- **Web Developer Intern** @ Iconix Solutions, Inc. (June 2023)
+
+---
+
+### 🎓 Education
+**Bachelor of Engineering - Computer Science and Engineering (AI & DS)**  
+Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
@@ -11,7 +27,7 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
 - **Predicting Alzheimer's Disease from MRI Scans Using Deep Learning**
   - Achieved **92% accuracy** with **ResNet50** architecture.
   - Developed a **Flask-based web app** for real-time MRI image classification.
-  - Integrated advanced visualization techniques like **confident score** for better interpretability.
+  - Integrated advanced visualization techniques like **confidence score** for better interpretability.
   
 - **AI-Powered Visual Perception System**
   - Building a system that **learns by observation** using real-time video capture.
@@ -25,7 +41,6 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
   - Establishing a structured and advanced martial arts coaching system.
   - Integrating AI-driven training analysis for better performance tracking.
 
-- Etc..,
 ---
 
 ### 🎯 Skills & Technologies
@@ -42,6 +57,20 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
+
+**Core Expertise:** Natural Language Processing • Image Processing • Sentiment Analysis • Generative AI • Deep Learning • Computer Vision • AI Tools • Content Writing • Logo Design
+
+---
+
+### 🏆 Certifications
+- **Introduction to Large Language Models** - Google (2024)
+- **Introduction to Generative AI** - Google (2024)
+- **What Is Generative AI?** - LinkedIn (2024)
+- **Streamlining Your Work with Microsoft Copilot** - LinkedIn (2024)
+- **Learning Microsoft 365 Copilot** - LinkedIn (2024)
+- **Sentimental Analysis Using Python** - Great Learning (2023)
+- **Introduction to Deep Learning** - Great Learning (2023)
+- **(ISC)² Certified in Cybersecurity (CC) Cert Prep** - LinkedIn (2023)
 
 ---
 
@@ -69,5 +98,12 @@ I'm a passionate AI developer specializing in deep learning, natural language pr
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="38" alt="YouTube" />
   </a>
 </div>
+
+---
+
+### 💡 Philosophy
+*"Advocate smart work over hard work in solving problems"*
+
+Open to collaboration and exploring opportunities in AI and computer science!
 
 ---
