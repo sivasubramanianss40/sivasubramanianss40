@@ -1,15 +1,15 @@
-<h2 align="left">Hi there, I'm Sivasubramanian M 👋<br><br>Founder & CEO of SS40 NETWORK | AIML Trainer @ Xebia | AI Developer | Open-Source Enthusiast</h2>
+<h2 align="left">Hi there, I'm Sivasubramanian M <br><br>Founder & CEO of SS40 NETWORK | AIML Trainer @ Xebia | AI Developer | Open-Source Enthusiast</h2>
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a passionate AI developer specializing in artificial intelligence, machine learning, deep learning, and generative AI. As the Founder & CEO of **SS40 NETWORK** (established September 2023), I lead a startup delivering innovative AI-driven solutions, including captivating webpages, unique logos, and cutting-edge software solutions. Currently serving as an **AIML Trainer at Xebia** (August 2025 - Present), I combine hands-on AI expertise with education to empower the next generation of AI professionals.
 
 With expertise in **Natural Language Processing, Image Processing, Sentiment Analysis, and Generative AI**, I focus on building innovative solutions that make real-world impact. As an open-source enthusiast, I actively contribute to the developer community, sharing insights and collaborating on groundbreaking projects. I'm also recognized for my presentation and communication skills, often invited as a keynote speaker.
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 - **AIML Trainer** @ Xebia (August 2025 - Present)
 - **Founder & Chief Executive Officer** @ SS40 NETWORK Pvt Ltd (September 2023 - Present)
 - **Artificial Intelligence Engineer** @ IPCS (January 2025 - February 2025)
@@ -17,13 +17,13 @@ With expertise in **Natural Language Processing, Image Processing, Sentiment Ana
 
 ---
 
-### 🎓 Education
+### Education
 **Bachelor of Engineering - Computer Science and Engineering (AI & DS)**  
 Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
-### 🔬 Current Projects
+### Current Projects
 - **Predicting Alzheimer's Disease from MRI Scans Using Deep Learning**
   - Achieved **92% accuracy** with **ResNet50** architecture.
   - Developed a **Flask-based web app** for real-time MRI image classification.
@@ -43,7 +43,7 @@ Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
-### 🎯 Skills & Technologies
+### Skills & Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
@@ -62,7 +62,7 @@ Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
-### 🏆 Certifications
+### Certifications
 - **Introduction to Large Language Models** - Google (2024)
 - **Introduction to Generative AI** - Google (2024)
 - **What Is Generative AI?** - LinkedIn (2024)
@@ -74,16 +74,7 @@ Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivasubramanianss40&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=aura&locale=en&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasubramanianss40&layout=compact&langs_count=8&theme=noctis_minimus&hide_border=false" height="150" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=sivasubramanianss40&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
-
----
-
-### 🌐 Connect with Me
+### Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/sivasubramanianss40/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn" />
@@ -101,7 +92,7 @@ Thamirabharani Engineering College, Tirunelveli (2021 - 2025)
 
 ---
 
-### 💡 Philosophy
+### Philosophy
 *"Advocate smart work over hard work in solving problems"*
 
 Open to collaboration and exploring opportunities in AI and computer science!
